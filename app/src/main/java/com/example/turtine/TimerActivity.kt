@@ -67,6 +67,7 @@ class TimerActivity : AppCompatActivity() {
         if (timerTask == null) {
             start()
         }
+
     }
 
     override fun onDestroy() {
